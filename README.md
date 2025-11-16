@@ -45,7 +45,7 @@ A modern, high-performance game engine built with **Java 21**, **OpenGL 3.3.4**,
 ### Build & Run
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/superior-game-engine.git
+git clone https://github.com/CodyEdwin/superior-game-engine.git
 cd superior-game-engine
 
 # Build the engine
